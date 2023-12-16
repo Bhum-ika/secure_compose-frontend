@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="About Us"
+        description="Welcome to Secure-compose, where innovation meets excellence. We are dedicated, delivering cutting-edge solutions and exceptional service to meet your needs."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
