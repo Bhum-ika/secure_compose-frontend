@@ -192,7 +192,11 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
+<<<<<<< HEAD
 /******/ 		__webpack_require__.h = function() { return "b6509d987738680f"; }
+=======
+/******/ 		__webpack_require__.h = function() { return "0a9f531dd8903d67"; }
+>>>>>>> inkerton
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
