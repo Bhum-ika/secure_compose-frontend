@@ -1,5 +1,5 @@
 /*!**************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./styles/index.css ***!
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./styles/index.css ***!
   \**************************************************************************************************************************************************************************************************************************************************************/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
@@ -745,9 +745,6 @@ input#checkboxLabel:checked ~ .box span{
 .mb-\[6px\]{
   margin-bottom: 6px;
 }
-.ml-3{
-  margin-left: 0.75rem;
-}
 .mr-10{
   margin-right: 2.5rem;
 }
@@ -1227,10 +1224,6 @@ input#checkboxLabel:checked ~ .box span{
   padding-top: 6px;
   padding-bottom: 6px;
 }
-.px-2{
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
 .pb-11{
   padding-bottom: 2.75rem;
 }
@@ -1279,11 +1272,11 @@ input#checkboxLabel:checked ~ .box span{
 .pt-\[120px\]{
   padding-top: 120px;
 }
-.pt-\[180px\]{
-  padding-top: 180px;
-}
 .pt-\[150px\]{
   padding-top: 150px;
+}
+.pt-\[180px\]{
+  padding-top: 180px;
 }
 .text-center{
   text-align: center;
@@ -1633,11 +1626,6 @@ input#checkboxLabel:checked ~ .box span{
   background-color: rgb(23 28 40 / var(--tw-bg-opacity));
 }
 
-:is(.dark .dark\:bg-black){
-  --tw-bg-opacity: 1;
-  background-color: rgb(18 23 35 / var(--tw-bg-opacity));
-}
-
 :is(.dark .dark\:bg-dark){
   --tw-bg-opacity: 1;
   background-color: rgb(29 36 48 / var(--tw-bg-opacity));
@@ -1783,10 +1771,6 @@ input#checkboxLabel:checked ~ .box span{
 
   .sm\:mb-0{
     margin-bottom: 0px;
-  }
-
-  .sm\:ml-3{
-    margin-left: 0.75rem;
   }
 
   .sm\:block{
@@ -2449,7 +2433,7 @@ input#checkboxLabel:checked ~ .box span{
 }
 
 /*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./node_modules/react-modal-video/css/modal-video.css ***!
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./node_modules/react-modal-video/css/modal-video.css ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************/
 @keyframes modal-video {
   from {
@@ -2572,7 +2556,7 @@ input#checkboxLabel:checked ~ .box span{
 }
 
 /*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app\\layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[11].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app\\layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
   \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* cyrillic-ext */
 @font-face {
