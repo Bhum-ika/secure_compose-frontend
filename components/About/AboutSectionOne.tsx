@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                paragraph="Secure-Compose is a disruptive SBOM solution built for startups, SaaS providers, and organisations that will revolutionise software development and business processes. Secure-Compose is a game changer for security, efficiency, and innovation in the digital landscape, designed to speed startups, ensure SaaS quality, and streamline business processes."
                 mb="44px"
               />
 
@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Rapid Deployment" />
+                    <List text="Client Confidence" />
+                    <List text="Risk Mitigation" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Compliance Assurance" />
+                    <List text="Scalable Solutions" />
+                    <List text="Competitive Edge" />
                   </div>
                 </div>
               </div>
