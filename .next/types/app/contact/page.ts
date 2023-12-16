@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+<<<<<<<< HEAD:.next/types/app/contact/page.ts
 // File: C:\cygwin64\home\liveWire\Secure-compose-frontend\app\contact\page.tsx
 import * as entry from '../../../../app/contact/page.js'
+========
+// File: C:\Users\Lenovo\OneDrive\Desktop\SIH\secure_compose-frontend\app\about\page.tsx
+import * as entry from '../../../../app/about/page.js'
+>>>>>>>> 15cc51cb9ce56f2a7d1fd388778b5318ab8183f0:.next/types/app/about/page.ts
+=======
+// File: C:\Users\Lenovo\OneDrive\Desktop\SIH\secure_compose-frontend\app\contact\page.tsx
+import * as entry from '../../../../app/contact/page.js'
+>>>>>>> 15cc51cb9ce56f2a7d1fd388778b5318ab8183f0
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
 type TEntry = typeof import('../../../../app/contact/page.js')

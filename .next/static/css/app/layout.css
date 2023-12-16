@@ -1,5 +1,13 @@
 /*!**************************************************************************************************************************************************************************************************************************************************************!*\
+<<<<<<< HEAD
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./styles/index.css ***!
+=======
+<<<<<<< HEAD
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./styles/index.css ***!
+=======
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./styles/index.css ***!
+>>>>>>> a25a80f9a0fe11d31bd868548314f035087e5144
+>>>>>>> 15cc51cb9ce56f2a7d1fd388778b5318ab8183f0
   \**************************************************************************************************************************************************************************************************************************************************************/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
@@ -2433,7 +2441,15 @@ input#checkboxLabel:checked ~ .box span{
 }
 
 /*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
+<<<<<<< HEAD
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./node_modules/react-modal-video/css/modal-video.css ***!
+=======
+<<<<<<< HEAD
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./node_modules/react-modal-video/css/modal-video.css ***!
+=======
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./node_modules/react-modal-video/css/modal-video.css ***!
+>>>>>>> a25a80f9a0fe11d31bd868548314f035087e5144
+>>>>>>> 15cc51cb9ce56f2a7d1fd388778b5318ab8183f0
   \************************************************************************************************************************************************************************************************************************************************************************************************/
 @keyframes modal-video {
   from {
@@ -2556,7 +2572,15 @@ input#checkboxLabel:checked ~ .box span{
 }
 
 /*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+<<<<<<< HEAD
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[11].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app\\layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
+=======
+<<<<<<< HEAD
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[11].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app\\layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
+=======
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app\\layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
+>>>>>>> a25a80f9a0fe11d31bd868548314f035087e5144
+>>>>>>> 15cc51cb9ce56f2a7d1fd388778b5318ab8183f0
   \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* cyrillic-ext */
 @font-face {
