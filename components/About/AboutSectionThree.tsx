@@ -7,9 +7,9 @@ const AboutSectionThree = () => {
         <div className="-mx-4 flex flex-wrap items-center">
           
           <div className="w-full px-4 lg:w-1/2">
-            <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
+            <div className="wow fadeInUp max-w-[570px]" data-wow-delay=".2s">
               <div className="mb-9">
-                <p className="mb-4 text-xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[45px]">
+                <p className="mb-4 text-2xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[45px]">
                 Why Secure-Compose for Your Business?
                 </p>
                 {/* <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
@@ -22,7 +22,7 @@ const AboutSectionThree = () => {
                 Scalable Solutions
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Whether you're a growing startup or an established business, 
+                Whether you&apos;re a growing startup or an established business, 
                 Secure-Compose scales with you. Our solutions are adaptable to the evolving needs of your business.
                 </p>
               </div>
@@ -38,24 +38,24 @@ const AboutSectionThree = () => {
             </div>
           </div>
           <div className="w-full px-4 lg:w-1/2">
-            <div
-              className="wow fadeInUp relative mx-auto mb-12 aspect-[25/24] max-w-[500px] text-center lg:m-0"
-              data-wow-delay=".15s"
-            >
-              <Image
-                src="/images/about/about-image-2.svg"
-                alt="about image"
-                fill
-                className="drop-shadow-three dark:hidden dark:drop-shadow-none"
-              />
-              <Image
-                src="/images/about/about-image-2-dark.svg"
-                alt="about image"
-                fill
-                className="drop-shadow-three hidden dark:block dark:drop-shadow-none"
-              />
+              <div
+                className="wow fadeInUp relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0"
+                data-wow-delay=".2s"
+              >
+                <Image
+                  src="/images/about/about-image.svg"
+                  alt="about-image"
+                  fill
+                  className="drop-shadow-three mx-auto max-w-full dark:hidden dark:drop-shadow-none lg:mr-0"
+                />
+                <Image
+                  src="/images/about/about-image-dark.svg"
+                  alt="about-image"
+                  fill
+                  className="drop-shadow-three mx-auto hidden max-w-full dark:block dark:drop-shadow-none lg:mr-0"
+                />
+              </div>
             </div>
-          </div>
         </div>
       </div>
     </section>
