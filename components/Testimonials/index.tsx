@@ -5,29 +5,29 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "How do I get an SBOM for my software?",
+    designation: "",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-01.png",
+      "You may connect your Github to Secure-compose or upload your project and the rest will be done by Secure-compose. ",
+    image: "/images/testimonials/auth-01.jpg",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "What type of SBOM is Secure-compose?",
+    designation: "",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-02.png",
+      "Secure-compose is Dependency-graph SBOM and maps the entire dependency tree of your software, showing how different components interact and rely on each other. ",
+    image: "/images/testimonials/auth-02.jpg",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "How does Secure-compose work?",
+    designation: "",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-03.png",
+      "Secure-compose tests for vulnerabilities in your own code, open source dependencies, container images, infrastructure as code configurations, and cloud environments and offers context, prioritization, and remediation.",
+    image: "/images/testimonials/auth-03.jpg",
     star: 5,
   },
 ];
@@ -37,8 +37,8 @@ const Testimonials = () => {
     <section className="dark:bg-bg-color-dark bg-gray-light relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Frequently Asked Questions"
+          paragraph="You have Questions??? We have answers."
           center
         />
 
