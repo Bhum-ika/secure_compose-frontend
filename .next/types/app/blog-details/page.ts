@@ -1,4 +1,4 @@
-// File: C:\cygwin64\home\liveWire\Secure-compose-frontend\app\blog-details\page.tsx
+// File: C:\Users\Lenovo\OneDrive\Desktop\SIH\secure_compose-frontend\app\blog-details\page.tsx
 import * as entry from '../../../../app/blog-details/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
