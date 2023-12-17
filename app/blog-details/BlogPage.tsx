@@ -1,7 +1,7 @@
 // pages/blog/index.tsx
 import Link from 'next/link';
 import Data from '@/components/Blog/Data';
-import SingleBlogDetail from './page';
+import SingleBlogDetail from './SingleBlogDetail';
 
 const BlogPage = () => {
   return (
