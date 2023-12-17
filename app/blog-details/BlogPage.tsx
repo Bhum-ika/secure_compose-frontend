@@ -3,7 +3,9 @@ import Link from 'next/link';
 import Data from '@/components/Blog/Data';
 import BlogDetailsPage from './BlogDetailsPage';
 
+
 const BlogPage = () => {
+  console.log(Data);
   return (
     <div>
       <h1>Blog Page</h1>
