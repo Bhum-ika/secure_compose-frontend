@@ -1,4 +1,4 @@
-// File: C:\cygwin64\home\liveWire\Secure-compose-frontend\app\layout.tsx
+// File: C:\Users\Lenovo\OneDrive\Desktop\SIH\secure_compose-frontend\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
