@@ -15,14 +15,14 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo-2.svg"
+                    src="/images/logo/logo-1.png"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={140}
                     height={30}
                   />
                   <Image
-                    src="/images/logo/logo.svg"
+                    src="/images/logo/logo-black1.png"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
@@ -30,12 +30,11 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                Secure-compose is an the equalizer, the secret weapon, the key to unlocking your small business's true potential.
                 </p>
                 <div className="flex items-center">
                   <a
-                    href="/"
+                    href="https://www.linkedin.com/in/janvi-choudhary/"
                     aria-label="social-link"
                     className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                   >
