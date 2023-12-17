@@ -54,12 +54,19 @@ const AboutSectionOne = () => {
                 className="wow fadeInUp relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0"
                 data-wow-delay=".2s"
               >
-              
+                {/* black-dark theme */}
                 <Image
                   src="/images/about/abt2.png"
                   alt="about-image"
                   fill
                   className="drop-shadow-three mx-auto hidden max-w-full dark:block dark:drop-shadow-none lg:mr-0"
+                />
+                {/* white theme */}
+                <Image
+                  src="/images/about/abt2.png"
+                  alt="about-image"
+                  fill
+                  className="drop-shadow-three mx-auto max-w-full dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
               </div>
             </div>
