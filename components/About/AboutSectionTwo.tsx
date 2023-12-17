@@ -10,12 +10,20 @@ const AboutSectionTwo = () => {
               className="wow fadeInUp relative mx-auto mb-12 aspect-[25/24] max-w-[500px] text-center lg:m-0"
               data-wow-delay=".15s"
             >
-            
+              {/* black theme */}
               <Image
                 src="/images/about/abt3.png"
                 alt="about image"
                 fill
                 className="drop-shadow-three hidden dark:block dark:drop-shadow-none"
+               
+              />
+              {/* white theme */}
+              <Image
+                src="/images/about/abt3.png"
+                alt="about image"
+                fill
+                className="drop-shadow-three dark:hidden dark:drop-shadow-none"
                
               />
             </div>
