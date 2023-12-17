@@ -1,7 +1,7 @@
 // pages/blog/index.tsx
 import Link from 'next/link';
 import Data from '@/components/Blog/Data';
-import SingleBlogDetail from './page';
+import BlogDetailsPage from './BlogDetailsPage';
 
 const BlogPage = () => {
   return (
@@ -13,7 +13,7 @@ const BlogPage = () => {
                 key={blog.id}
                 className="w-full px-4 md:w-2/3 lg:w-1/2 xl:w-1/3"
               >
-                <SingleBlogDetail Data={blog} />
+                <BlogDetailsPage blog={blog} />
               </div>
             ))}
           </div>

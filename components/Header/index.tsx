@@ -57,19 +57,19 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/logo-1.png"
+                  src="/images/logo/whitelogo.png"
                   alt="logo"
                   width={140}
                   height={60}
                   className="w-full dark:hidden"
-                />
-                <Image
-                    src="/images/logo/logo-black1.png"
-                    alt="logo"
-                    className="hidden w-full dark:block"
-                    width={140}
-                    height={30}
-                  />
+                /> <Image
+                src="/images/logo/masterLogo.jpg"
+                alt="logo"
+                className="hidden w-full dark:block"
+                width={140}
+                height={30}
+              />
+                
               </Link>
             </div>
             <div className="flex w-full items-center justify-between px-4">
