@@ -2,6 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
+
 const Footer = () => {
   return (
     <>
@@ -30,7 +31,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                Secure-compose is an the equalizer, the secret weapon, the key to unlocking your small business's true potential.
+                Secure-compose is an the equalizer, the secret weapon, the key to unlocking your small business &apos;s true potential.
                 </p>
                 <div className="flex items-center">
                   <a
@@ -136,7 +137,7 @@ const Footer = () => {
                   </li> */}
                   <li>
                     <a
-                      href="/"
+                      href="/PrivacyPolicy"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Privacy Policy
@@ -144,7 +145,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="./RefundPolicy"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Refund Policy
