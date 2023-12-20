@@ -15,20 +15,7 @@ const Footer = () => {
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-5/12">
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
-                  <Image
-                    src="/images/logo/logo-white.png"
-                    alt="logo"
-                    className="w-full dark:hidden"
-                    width={140}
-                    height={30}
-                  />
-                  <Image
-                    src="/images/logo/logo-black2.png"
-                    alt="logo"
-                    className="hidden w-full dark:block"
-                    width={140}
-                    height={30}
-                  />
+                <b><i>SecureCompose</i>  </b> 
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
                 Secure-compose is an the equalizer, the secret weapon, the key to unlocking your small business &apos;s true potential.
@@ -145,10 +132,10 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="./RefundPolicy"
+                      href="/ApplicationSecurity"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
-                      Refund Policy
+                      Application Security
                     </a>
                   </li>
                 </ul>

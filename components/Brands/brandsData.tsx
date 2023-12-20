@@ -4,7 +4,7 @@ const brandsData: Brand[] = [
   {
     id: 1,
     name: "MongoDB",
-    image: "/images/brands/mongodb_b.webp",
+    image: "/images/brands/MONGO.svg",
   },
   {
     id: 2,
