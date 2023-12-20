@@ -15,7 +15,7 @@ const Blog = () => {
     <>
       <Breadcrumb
         pageName="Welcome to our Blog !!!"
-        description="hehe"
+        description="Unleash the Bill of Materials for Your Software: Build Trust & Navigate Security with SBOMs ⚡"
       />
 
       <section className="pb-[120px] pt-[120px]">

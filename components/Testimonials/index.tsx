@@ -8,7 +8,7 @@ const testimonialData: Testimonial[] = [
     name: "How do I get an SBOM for my software?",
     designation: "",
     content:
-      "You may connect your Github to Secure-compose or upload your project and the rest will be done by Secure-compose. ",
+      "You may connect your Github to Secure-compose or upload your project and the rest will be done by Secure-compose. You can either upload the package file or the whole zip file. We also support .exe file format. ",
     image: "/images/testimonials/auth-01.jpg",
     star: 5,
   },
