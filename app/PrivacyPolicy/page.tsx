@@ -1,8 +1,8 @@
 import Breadcrumb from "@/components/Common/Breadcrumb";
 import Image from "next/image";
-import { Metadata } from "next";
 
-export const metadata: Metadata = {
+
+export const metadata: any = {
   title: "Privacy Policy | Secure-compose",
   description: "Secure-compose and its policies",
   // other metadata
