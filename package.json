@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/eslint-parser": "^7.23.3",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
     "next": "^14.0.4",
@@ -21,6 +22,8 @@
   "devDependencies": {
     "@types/node": "^20.8.9",
     "@types/react": "^18.2.45",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
     "prettier": "^3.0.3",
