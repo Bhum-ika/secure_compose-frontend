@@ -21,15 +21,15 @@ const Hero = () => {
                 Automating Software Bill of Materials (SBOM) creation, Secure Compose enhances security and compliance in software supply chains, fostering a streamlined and secure development process, crucial for modern software ecosystems.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                  <Link
+                  {/* <Link
                     href="https://sihfrontendreact.vercel.app/"
                     className="rounded-md bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80 hover:translate-x-1"
                   >
                     Upload Files
-                  </Link>
+                  </Link> */}
                   <Link
-                    href="https://sihfrontendreact.vercel.app/"
-                    className="inline-block rounded-md bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 hover:translate-x-1"
+                    href="https://localhost:3000/authlogin"
+                    className="inline-block rounded-md bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 hover:translate-x-1"
                   >
                    Try Demo🔥
                   </Link>
