@@ -103,7 +103,7 @@ const page = () => {
                 <div>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Have you ever built a house without knowing what bricks you used? In today&apros;s complex software landscape, that&apros;s what developers and businesses often face. Enter the Software Bill of Materials (SBOM), a revolutionary tool that acts like a detailed blueprint for your software, listing every single component and its origins. 
-                    It&apros;s like a transparent window into your code, empowering you with unprecedented control, security, and agility.Imagine a world where:
+                    It&apros;s like a transparent window into your code, empowering you with unprecedented control, security, and agility.Imagine a world where: 
                   </p>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
