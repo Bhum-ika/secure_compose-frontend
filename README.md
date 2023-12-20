@@ -1,5 +1,4 @@
-# Secure-compose-frontend
-SIH 2023 <br>
+# Secure-compose-frontend <a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank">SIH 2023 </a>
 **Problem Statement ID** - 1449 <br>
 **Problem Statement Title** <br>
 Design, develop and implement a software bill of materials (SBOM) generation tool that can generate the complete SBOM of custom-developed software (including in-house developments by organisations)<br>
