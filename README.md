@@ -9,3 +9,11 @@ SBOM stands for Software Bill of Material and lists out all the packages / modul
 
 # Our Product - Secure compose
 Automating Software Bill of Materials (SBOM) creation, Secure Compose enhances security and compliance in software supply chains, fostering a streamlined and secure development process, crucial for modern software ecosystems.
+
+# Contact us
+Janvi - janvichoudhary116@gmail.com<br>
+Bhumika Sharma - sharmabhmi@gmail.com<br>
+Anas Saifi - anassaifi1108@gmail.com<br>
+Harsh Agnihotri - harshagnihotri90@gmail.com<br>
+Aditya Singh - rawatas0901@gmail.com<br>
+Varun Dhand - varundhand77@gmail.com
