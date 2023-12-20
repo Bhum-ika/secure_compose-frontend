@@ -25,7 +25,7 @@ const Hero = () => {
                     href=""
                     className="rounded-md bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80 hover:translate-x-1"
                   >
-                    Connect On Github
+                    Upload Files
                   </Link>
                   <Link
                     href=""
